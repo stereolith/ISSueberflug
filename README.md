@@ -2,12 +2,12 @@
 
 GIS auf der Basis von [QGIS](https://www.qgis.org/) zum Visualisieren des ISS-Flugpfades (ground track), Ortungsinformationen und Informationen zur Lichtverschmutzung.
 
-> Daten zur Lichtverschmutzung wegen der Dateigröße nicht auf github hochgeladen `/Layer/Light Pollution`. Die Daten wurde vom [Earth Observation Group, NOAA National Geophysical Data Center](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html) bezogen
+> Daten zur Lichtverschmutzung wurden wegen der großen Dateigröße nicht auf github hochgeladen `/Layer/Light Pollution`. Die Daten wurden vom [Earth Observation Group, NOAA National Geophysical Data Center](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html) bezogen
 
 Dieses GIS ermöglicht dem Nutzer:
  * die Laufbahn der ISS über die Zeit nachzuverfolgen
  * den optimalen Ort mit wenig Lichtverschmutzung zu finden
- * die ISS bei einem Überflug mit dem Kompass zu orten
+ * die ISS bei einem Überflug mit dem Kompass zu orten (Entfernung, Azimuth und Elevation)
  
  **Eine vollständige Dokumentation ist unter `/docs` zu finden.**
  
